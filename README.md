@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - **Description:** A responsive website for a construction company showcasing their projects.
 - **Website Link:** [Building Company Website](https://walser.netlify.app/)
 
-### Fragrance Matcher (HTML/CSS,Python)
+### Fragrance Matcher (HTML/CSS, Python)
 - **Description:** A Flask application to match fragrances based on user preferences.
 - **Website Link:** [Fragrance Matcher](https://fragmatcher.vercel.app/)
 
