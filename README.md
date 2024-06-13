@@ -22,5 +22,20 @@ Here are some ideas to get you started:
 ## Website
 [Website Link](https://sychikova1.netlify.app/)
 
+## Projects
+
+### C++ Aid Management System
+- **Description:** A C++ project for managing aid distribution in emergency situations.
+- **GitHub Repository:** [GitHub Repository](https://github.com/asychikova/OOP_part2/tree/main/PROJECT)
+
+### Fragrance Matcher (Python)
+- **Description:** A Python application to match fragrances based on user preferences.
+- **Project Link:** [Fragrance Matcher](https://fragmatcher.vercel.app/)
+
+### Building Company Website (HTML/CSS)
+- **Description:** A responsive website for a construction company showcasing their projects.
+- **Website Link:** [Building Company Website](https://walser.netlify.app/)
+
+
 
 
