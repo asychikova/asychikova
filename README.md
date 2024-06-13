@@ -23,6 +23,10 @@ Here are some ideas to get you started:
 
 ### Aid Management System (C++)
 - **Description:** A C++ project for managing aid distribution in emergency situations.
+- **GitHub Repository:** [GitHub Repository](https://github.com/asychikova/OOP_part1/tree/main/AidManagementSystem)
+  
+### Assembly Line Simulator (C++)
+- **Description:** A C++ project for modeling and managing an assembly line system for processing customer orders through various stations.
 - **GitHub Repository:** [GitHub Repository](https://github.com/asychikova/OOP_part2/tree/main/PROJECT)
 
 ### Personal Website (HTML/CSS, JavaScript)
