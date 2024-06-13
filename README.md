@@ -19,4 +19,8 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,py,js,html,css&theme=light)](https://skillicons.dev)
 
+## Website
+[Website Link](https://sychikova1.netlify.app/)
+
+
 
