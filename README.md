@@ -19,14 +19,15 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,py,js,html,css&theme=light)](https://skillicons.dev)
 
-## Website
-[Website Link](https://sychikova1.netlify.app/)
-
 ## Projects
 
 ### Aid Management System (C++)
 - **Description:** A C++ project for managing aid distribution in emergency situations.
 - **GitHub Repository:** [GitHub Repository](https://github.com/asychikova/OOP_part2/tree/main/PROJECT)
+
+### Personal Website (HTML/CSS, JavaScript)
+- **Description:** The website was created to showcase projects.
+- **Website Link:** [Personal website](https://sychikova1.netlify.app/)
 
 ### Building Company Website (HTML/CSS)
 - **Description:** A responsive website for a construction company showcasing their projects.
