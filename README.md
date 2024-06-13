@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## My Skills
+## Studying
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,js,html,css&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,py,js,html,css&theme=light)](https://skillicons.dev)
 
 
