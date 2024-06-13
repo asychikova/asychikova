@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### Personal Website (HTML/CSS, JavaScript)
 - **Description:** The website was created to showcase projects.
-- **Website Link:** [Personal website](https://sychikova1.netlify.app/)
+- **Website Link:** [Personal Website](https://sychikova1.netlify.app/)
 
 ### Building Company Website (HTML/CSS)
 - **Description:** A responsive website for a construction company showcasing their projects.
