@@ -41,5 +41,9 @@ Here are some ideas to get you started:
 - **Description:** A Flask application to match fragrances based on user preferences.
 - **Website Link:** [Fragrance Matcher](https://fragmatcher.vercel.app/)
 
+- ### Travel Diary (Java)
+- **Description:** A JavaFX-based Travel Diary Application enabling users to manage journal entries of their travels.
+- **GitHub Repository:** [GitHub Repository](https://github.com/asychikova/TravelDiary)
+
 
 
