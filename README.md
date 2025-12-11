@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Anna
+## Hi there, my name is Anna
 
 <!--
 **asychikova/asychikova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,38 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,py,js,html,css&theme=light)](https://skillicons.dev)
 
-## Projects
+## Web-based Interactive Mini Apps
+
+### Stock Narrative Detector (Python/ML)
+- **Description:** An NLP-powered market sentiment web app that aggregates financial news, extracts full articles, classifies narratives with a custom ML model, and visualizes how media coverage shapes a company’s stock performance in real time.
+- ***Note:*** I am actively improving the model’s accuracy and refining its heuristic and rule-based adjustments for better real-world performance.
+- **Website Link:** [Stock Detector](https://stockdetector.streamlit.app/)
+
+### Text and URL Summarizer (HTML/CSS/JS/Next.js)
+- **Description:** Convert text or webpage content into brief, meaningful insights.
+- **Website Link:** [Text Summary](https://textsummary-ai.vercel.app/)
+
+
+## Web Projects (HTML/CSS, JS)
+
+### Personal Website 
+- **Description:** The website was created to showcase projects.
+- **Website Link:** [Personal Website](https://sychikova1.netlify.app/)
+  
+### Katamal LLC
+- **Description:** Website for a U.S.-based e-commerce and Amazon consulting company showcasing services, brands and private label products.
+- **Website Link:** [KatamaLLC](https://www.katamallc.com/)
+
+### The Dream Suite
+- **Description:** Website for a luxury restaurant concept showcasing its menu, brand aesthetic, and boutique imagery.
+- **Website Link:** [The Dream Suite](https://thedreamsuit.netlify.app/)
+
+### Building Company Website 
+- **Description:** Website for a construction company showcasing their projects.
+- **Website Link:** [Building Company Website](https://walser.netlify.app/)
+
+
+## C++/Java Academic Projects
 
 ### Aid Management System (C++)
 - **Description:** A C++ project for managing aid distribution in emergency situations.
@@ -29,21 +60,13 @@ Here are some ideas to get you started:
 - **Description:** A C++ project for modeling and managing an assembly line system for processing customer orders through various stations.
 - **GitHub Repository:** [GitHub Repository](https://github.com/asychikova/OOP_part2/tree/main/PROJECT)
 
-### Personal Website (HTML/CSS, JavaScript)
-- **Description:** The website was created to showcase projects.
-- **Website Link:** [Personal Website](https://sychikova1.netlify.app/)
-
-### Building Company Website (HTML/CSS)
-- **Description:** A responsive website for a construction company showcasing their projects.
-- **Website Link:** [Building Company Website](https://walser.netlify.app/)
-
-### Fragrance Matcher (HTML/CSS, Python)
-- **Description:** A Flask application to match fragrances based on user preferences.
-- **Website Link:** [Fragrance Matcher](https://fragmatcher.vercel.app/)
-
 ### Travel Diary (Java)
 - **Description:** A JavaFX-based Travel Diary Application enabling users to manage journal entries of their travels.
 - **GitHub Repository:** [GitHub Repository](https://github.com/asychikova/TravelDiary)
+
+
+
+
 
 
 
