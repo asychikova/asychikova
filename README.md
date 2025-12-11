@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### Stock Narrative Detector (Python/ML)
 - **Description:** An NLP-powered market sentiment web app that aggregates financial news, extracts full articles, classifies narratives with a custom ML model, and visualizes how media coverage shapes a company’s stock performance in real time.
-- ***Note:*** I am actively improving the model’s accuracy and refining its heuristic and rule-based adjustments for better real-world performance.
+- <sub>**Note:** I am actively improving the model’s accuracy and refining its heuristic and rule-based adjustments for better real-world performance.</sub>
 - **Website Link:** [Stock Detector](https://stockdetector.streamlit.app/)
 
 ### Text and URL Summarizer (HTML/CSS/JS/Next.js)
