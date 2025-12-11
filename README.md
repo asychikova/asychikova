@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 ## Studying
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,py,js,html,css&theme=light)](https://skillicons.dev)
-<br>
-<br>
+<br><br>
 ## Web-based Interactive Mini Apps
 
 ### Stock Narrative Detector (Python/ML)
@@ -30,8 +29,7 @@ Here are some ideas to get you started:
 ### Text and URL Summarizer (HTML/CSS/JS/Next.js)
 - **Description:** Convert text or webpage content into brief, meaningful insights.
 - **Website Link:** [Text Summary](https://textsummary-ai.vercel.app/)
-<br>
-<br>
+<br><br>
 ## Web Projects (HTML/CSS, JS)
 
 ### Personal Website 
@@ -49,8 +47,7 @@ Here are some ideas to get you started:
 ### Building Company Website 
 - **Description:** Website for a construction company showcasing their projects.
 - **Website Link:** [Building Company Website](https://walser.netlify.app/)
-<br>
-<br>
+<br><br>
 ## C++/Java Academic Projects
 
 ### Aid Management System (C++)
