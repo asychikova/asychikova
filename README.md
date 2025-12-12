@@ -1,4 +1,4 @@
-## I'm Anna
+## I'm Anna [Personal Website](https://sychikova1.netlify.app/)
 
 <!--
 **asychikova/asychikova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
