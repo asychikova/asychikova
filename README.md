@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 - **Description:** Website for a construction company showcasing their projects.
 - **Website Link:** [Building Company Website](https://walser.netlify.app/)
 <br><br>
-## C++/Java Academic Projects
+## C++ Projects
 
 ### Parallel Compression Algorithms with OpenMP + MPI (C++)
 - **Description:** This project implements three lossless compression algorithms: Huffman and RLE and measures how their performance changes when parallelized using a hybrid OpenMP + MPI model. MPI distributes file chunks across processes, while OpenMP accelerates compression inside each process. Throughput, timing, and scalability are compared against sequential baselines.
@@ -58,23 +58,7 @@ Huffman: 0.12 MB/s → 4.35 MB/s (≈ 35× faster)
 - **Performance Summary:** (4 MB File)
 RLE: ~28.9 MB/s → 320–340 MB/s (≈ 11×–12× faster)
 Huffman: ~0.11 MB/s → 3.9–4.1 MB/s (≈ 35×–37× faster)
-- **GitHub Repository:** [GitHub Repository](https://github.com/asychikova/GPUProj)
-
-### Aid Management System (C++)
-- **Description:** A C++ project for managing aid distribution in emergency situations.
-- **GitHub Repository:** [GitHub Repository](https://github.com/asychikova/OOP_part1/tree/main/AidManagementSystem)
-  
-### Assembly Line Simulator (C++)
-- **Description:** A C++ project for modeling and managing an assembly line system for processing customer orders through various stations.
-- **GitHub Repository:** [GitHub Repository](https://github.com/asychikova/OOP_part2/tree/main/PROJECT)
-
-### Travel Diary (Java)
-- **Description:** A JavaFX-based Travel Diary Application enabling users to manage journal entries of their travels.
-- **GitHub Repository:** [GitHub Repository](https://github.com/asychikova/TravelDiary)
-
-
-
-
+- **GitHub Repository:** [GitHub Repository](https://github.com/asychikova/
 
 
 
