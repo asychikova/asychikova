@@ -32,10 +32,6 @@ Here are some ideas to get you started:
 <br><br>
 ## Web Projects (HTML/CSS, JS)
 
-### Personal Website 
-- **Description:** The website was created to showcase projects.
-- **Website Link:** [Personal Website](https://sychikova1.netlify.app/)
-  
 ### Katamal LLC
 - **Description:** Website for a U.S.-based e-commerce and Amazon consulting company showcasing services, brands and private label products.
 - **Website Link:** [KatamaLLC](https://www.katamallc.com/)
