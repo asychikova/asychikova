@@ -58,7 +58,7 @@ Huffman: 0.12 MB/s → 4.35 MB/s (≈ 35× faster)
 - **Performance Summary:** (4 MB File)
 RLE: ~28.9 MB/s → 320–340 MB/s (≈ 11×–12× faster)
 Huffman: ~0.11 MB/s → 3.9–4.1 MB/s (≈ 35×–37× faster)
-- **GitHub Repository:** [GitHub Repository](https://github.com/asychikova/)
+- **GitHub Repository:** [GitHub Repository](https://github.com/asychikova/GPUproj)
 
 
 
